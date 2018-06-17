@@ -1,0 +1,27 @@
+
+T429C 000:520 SEGGER J-Link V4.80g Log File (0000ms, 0281ms total)
+T429C 000:520 DLL Compiled: Feb 13 2014 20:50:02 (0000ms, 0281ms total)
+T429C 000:520 Logging started @ 2018-05-26 14:00 (0000ms, 0281ms total)
+T429C 000:520 JLINK_SetWarnOutHandler(...) (0001ms, 0282ms total)
+T429C 000:521 JLINK_OpenEx(...)
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N: 20090928
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFull  returns O.K. (0278ms, 0560ms total)
+T429C 000:799 JLINK_SetErrorOutHandler(...) (0000ms, 0560ms total)
+T429C 000:799 JLINK_ExecCommand("ProjectFile = "C:\Users\Smileven\Desktop\STM32_OLED\STM32F103RE6TR\MDK-ARM\JLinkSettings.ini"", ...)  returns 0x00 (0002ms, 0562ms total)
+T429C 000:816 JLINK_ExecCommand("Device = STM32F103RE", ...)Device "STM32F103RE" selected (512 KB flash, 64 KB RAM).  returns 0x00 (0040ms, 0602ms total)
+T429C 000:856 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0602ms total)
+T429C 000:857 JLINK_GetHardwareVersion()  returns 0x11170 (0000ms, 0602ms total)
+T429C 000:857 JLINK_GetDLLVersion()  returns 48007 (0000ms, 0602ms total)
+T429C 000:857 JLINK_GetFirmwareString(...) (0000ms, 0602ms total)
+T429C 000:929 JLINK_GetDLLVersion()  returns 48007 (0001ms, 0603ms total)
+T429C 000:930 JLINK_GetCompileDateTime() (0000ms, 0603ms total)
+T429C 000:944 JLINK_GetFirmwareString(...) (0000ms, 0603ms total)
+T429C 000:957 JLINK_GetHardwareVersion()  returns 0x11170 (0000ms, 0603ms total)
+T429C 001:011 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0001ms, 0604ms total)
+T429C 001:012 JLINK_SetSpeed(200) (0000ms, 0604ms total)
+T429C 001:012 JLINK_GetId() >0x108 TIF> >0x108 TIF>STM32F1xxx: Can not attach to CPU. Trying connect under reset. >0x108 TIF> >0x108 TIF>  returns 0x00000000 (0555ms, 1159ms total)
+T429C 003:432 JLINK_Close() (0001ms, 1160ms total)
+T429C 003:432  (0001ms, 1160ms total)
+T429C 003:432 Closed (0001ms, 1160ms total)
